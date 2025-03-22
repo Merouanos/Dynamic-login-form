@@ -1,0 +1,4 @@
+-Do the dynamic text display.
+-add css.
+-add javascript expression check.
+-make it secure.

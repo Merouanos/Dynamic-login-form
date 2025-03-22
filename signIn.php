@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +11,8 @@
         <img src="#" alt="Merouanos logo">
 
     </header>
-        <h1>Welcome</h1>
-        <form action="checkDb.php" method="GET">
+        <h1>Sign In</h1>
+        <form action="checkDb.php" method="POST">
             <fieldset>
                     <legend></legend>
                     <label for="us">Username:*</label>
@@ -26,17 +24,8 @@
             
         </form>
 
-
-        <form action="signIn.php">
-            <label for="create">Or if you don't have an account press here</label>
-            <input type="submit" value="Create an account"> 
-        </form>
-
     </main>
 
 
 </body>
 </html>
-
-
-
